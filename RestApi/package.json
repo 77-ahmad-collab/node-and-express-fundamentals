@@ -1,5 +1,5 @@
 {
-  "name": "mongoosejs2",
+  "name": "RestApi",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "express": "^4.17.1",
     "mongoose": "^5.12.3",
     "validator": "^13.5.2"
   }
